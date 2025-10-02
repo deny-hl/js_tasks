@@ -7,3 +7,8 @@
  *
  * 3. Создайте многострочный комментарий
  */
+// This is a single line comment
+let someVariable = 32; // This variable stores a number
+/* This is a 
+multi-line comment
+that spans several lines */
